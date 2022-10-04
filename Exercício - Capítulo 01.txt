@@ -1,0 +1,20 @@
+Exercício - Capítulo 01
+
+1.1 - (a) Existe uma ordem na coleção de itens.
+      (b) Não está organizado linearmente.
+      (c) Não está organizado hierarquicamente.
+
+1.2 - (a) Grafo.
+      (b) Árvore.
+      (c) Lista.
+      (d) Árvore.
+
+1.3 - A estrutura condicional está comparando o endereço de memória e não o conteúdo das variáveis. Para comparar strings é necessário utilizar a função strcmp da biblioteca string.h.
+
+1.4 - O programa cria um registro e atribui o valor de y à variável x.
+
+1.5 - A variável a recebe o valor de b e vice-versa, através de operações com os ponteiros no programa.
+
+1.6 - (a) Dinâmica Sequencial.
+      (b) Estática Encadeada.
+      (c) Dinâmica Encadeada.
