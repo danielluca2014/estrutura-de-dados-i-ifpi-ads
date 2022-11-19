@@ -1,3 +1,5 @@
+// Daniel Luca & Francisco Igor
+
 #include <stdio.h>
 #include <stdlib.h>
 
