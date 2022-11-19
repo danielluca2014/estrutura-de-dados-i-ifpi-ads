@@ -1,3 +1,5 @@
+// Daniel Luca & Francisco Igor
+
 #include <stdio.h>
 #include <stdlib.h>
 #define troca(a,b) { int x=a; a=b; b=x; }
