@@ -1,3 +1,4 @@
+// Daniel Luca & Francisco Igor
 #include <stdio.h>
 
 int binarySearch(int x, int v[], int p, int u){

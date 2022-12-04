@@ -1,3 +1,4 @@
+// Daniel Luca & Francisco Igor
 #include <stdio.h>
 
 int linearSearch(int x, int v[], int n) {
